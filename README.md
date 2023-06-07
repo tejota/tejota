@@ -13,6 +13,6 @@ Faço uso do **GitFlow** para controle de versão e de metodologias ágeis como 
 Com foco constante na melhoria, realizo revisões de código e experimentos para otimizar a conversão de usuários.
 
 <div> 
-  <a href = "olavo.giraldi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  <a href="https://www.linkedin.com/in/olavo-giraldi-junior-b6063b59/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="mailto:olavo.giraldi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/olavo-giraldi-junior-b6063b59/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
