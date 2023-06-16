@@ -1,16 +1,16 @@
-## Sobre Mim
+## About me
 
-Sou um desenvolvedor com experiência em todas as etapas do ciclo de desenvolvimento, desde a concepção do servidor até a interface do usuário. 
+I am an experienced developer well-versed in all stages of the development cycle, encompassing server design and user interface development.
 
-Possuo domínio de **TypeScript**, **JavaScript** e **Python** (mas já trabalhei com Java, C++ e Elixir) utilizados para assegurar segurança e escalabilidade. Uso frameworks como **ReactJS**, **React Native** e **NextJS** para construir interfaces modernas e interativas.
+My expertise lies in TypeScript, JavaScript, and Python, with previous experience working with Java, C++, and Elixir. I leverage these languages to ensure security and scalability. Additionally, I am proficient in utilizing frameworks such as ReactJS, React Native, and NextJS to create modern and interactive interfaces.
 
-Adoto práticas de **clean code** e **Test-Driven Development (TDD)**, visando a qualidade e a manutenção do código. Tenho experiência com bancos de dados SQL e NoSQL, como **MySQL**, **PostgreSQL** e **MongoDB**.
+I am dedicated to producing clean code and follow the principles of Test-Driven Development (TDD), prioritizing code quality and maintainability. I have a strong background in working with both SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB.
 
-Na parte de DevOps, utilizo **Linux** e **Docker**, além de implementar **CI/CD** para garantir entregas contínuas e de qualidade. E já utilizei **Azure** e **AWS**.
+In terms of DevOps, I employ Linux and Docker, while implementing CI/CD practices to ensure continuous and high-quality deliveries. I also have experience working with Azure and AWS.
 
-Faço uso do **GitFlow** para controle de versão e de metodologias ágeis como **Scrum** e **Kanban** para gerir projetos. 
+For version control, I utilize GitFlow and apply agile methodologies such as Scrum and Kanban to effectively manage projects.
 
-Com foco constante na melhoria, realizo revisões de código e experimentos para otimizar a conversão de usuários.
+With a relentless focus on improvement, I regularly conduct code reviews and run experiments to optimize user conversion rates.
 
 <div> 
   <a href="mailto:olavo.giraldi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
